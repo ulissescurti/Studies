@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Answer</string>
+
+    <string name="question_plus">%1$d + %2$d =</string>
+    <string name="question_minus">%1$d - %2$d =</string>
+
+</resources>
